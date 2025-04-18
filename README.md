@@ -1,4 +1,4 @@
-# World Time App
+# 🌍World Time App
 
 A sleek and simple Flutter app that lets users check the **current time** and **date** in different cities around the world. It fetches real-time data from a public API and displays it with clean UI, making it ideal for learning about API integration, async programming, and Flutter navigation.
 
