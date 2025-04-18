@@ -15,11 +15,6 @@ A sleek and simple Flutter app that lets users check the **current time** and **
 
 bash
 git clone https://github.com/your-username/world-time-app.git
-cd world-time-app
-Install dependencies
-flutter pub get
-Run the app
-flutter run
 
 ## 🛠️ Technologies Used
 Flutter – UI toolkit by Google
