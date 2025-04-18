@@ -1,16 +1,40 @@
-# tut_app
+# World Time App
 
-A new Flutter project.
+A sleek and simple Flutter app that lets users check the **current time** and **date** in different cities around the world. It fetches real-time data from a public API and displays it with clean UI, making it ideal for learning about API integration, async programming, and Flutter navigation.
 
-## Getting Started
+## ✨ Features
+- 📡 Real-time time & date from an API
+- 🕐 Supports multiple world time zones
+- 📱 Clean and responsive Flutter UI
+- ⚡ Async/await HTTP request handling
+- 🔁 Navigation with data passing between screens
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+git clone https://github.com/your-username/world-time-app.git
+cd world-time-app
+Install dependencies
+flutter pub get
+Run the app
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+Flutter – UI toolkit by Google
+
+Dart – Programming language
+
+HTTP – For making network requests
+
+intl – For formatting time and date
+
+## 📸 Screenshots
+![996shots_so](https://github.com/user-attachments/assets/d3c0365c-7383-4e7c-8614-2214d46bc95f)
+
+## 📬 Contact
+Made with ❤️ by Islam Fares
+GitHub: @Islaam7
+
+
